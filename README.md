@@ -40,7 +40,7 @@ To perform a virus scan and log the results:
 python clamav_scan.py
 ```
 
-By default, the script is set to scan the `/home/bender/Documents/wazuhscripts/` directory. Modify the `path_to_scan` variable in the script to target the directory you wish to scan.
+By default, the script is set to scan the `/home/USER/Documents/wazuhscripts/` directory. Modify the `path_to_scan` variable in the script to target the directory you wish to scan.
 
 ## Log File
 
